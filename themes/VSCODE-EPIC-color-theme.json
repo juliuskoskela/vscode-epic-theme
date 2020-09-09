@@ -46,7 +46,7 @@
 		"list.inactiveSelectionBackground": "#00010a",
 		"list.inactiveSelectionForeground": "#4d5566",
 		"list.invalidItemForeground": "#414856",
-		"list.errorForeground": "#d96c75",
+		"list.errorForeground": "#be2a37",
 		"tree.indentGuidesStroke": "#4d5566b3",
 		"listFilterWidget.background": "#0d1016",
 		"listFilterWidget.outline": "#e6b450",
@@ -167,9 +167,9 @@
 		"pickerGroup.foreground": "#373d49",
 		"debugToolBar.background": "#0d1016",
 		"walkThrough.embeddedEditorBackground": "#0d1016",
-		"gitDecoration.modifiedResourceForeground": "#6994bfb3",
+		"gitDecoration.modifiedResourceForeground": "#0070dd",
 		"gitDecoration.deletedResourceForeground": "#d96c75b3",
-		"gitDecoration.untrackedResourceForeground": "#91b362b3",
+		"gitDecoration.untrackedResourceForeground": "#00ccff",
 		"gitDecoration.ignoredResourceForeground": "#373d49",
 		"gitDecoration.conflictingResourceForeground": "",
 		"gitDecoration.submoduleResourceForeground": "#ffee99b3",
@@ -208,7 +208,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#970000"
+				"foreground": "#9d9d9d"
 			}
 		},
 		{

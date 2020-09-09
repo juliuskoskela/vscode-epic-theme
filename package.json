@@ -3,6 +3,7 @@
     "displayName": "vscode-epic-theme",
     "description": "Epic theme!",
     "publisher": "juliuskoskela",
+    "repository": "https://github.com/juliuskoskela/vscode-epic-theme.git",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.48.0"

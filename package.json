@@ -1,0 +1,22 @@
+{
+    "name": "vscode-epic-theme",
+    "displayName": "vscode-epic-theme",
+    "description": "Epic theme!",
+    "publisher": "juliuskoskela",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSCODE-EPIC",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VSCODE-EPIC-color-theme.json"
+            }
+        ]
+    }
+}

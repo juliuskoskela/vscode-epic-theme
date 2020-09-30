@@ -86,8 +86,8 @@
 		"editorCursor.foreground": "#ff8000",
 		"editor.selectionBackground": "#273747",
 		"editor.inactiveSelectionBackground": "#1b2733",
-		"editor.selectionHighlightBackground": "#1b2733",
-		"editor.selectionHighlightBorder": "#304357",
+		"editor.selectionHighlightBackground": "#ffffff34",
+		"editor.selectionHighlightBorder": "#30435700",
 		"editor.wordHighlightBackground": "#6994bf12",
 		"editor.wordHighlightBorder": "#6994bf80",
 		"editor.wordHighlightStrongBackground": "#91b36212",
@@ -106,8 +106,8 @@
 		"editorIndentGuide.activeBackground": "#4d5566b3",
 		"editorRuler.foreground": "#4d556666",
 		"editorCodeLens.foreground": "#626a73",
-		"editorBracketMatch.background": "#4d55664d",
-		"editorBracketMatch.border": "#4d556699",
+		"editorBracketMatch.background": "#ffffff34",
+		"editorBracketMatch.border": "#ffffff00",
 		"editorOverviewRuler.border": "#00010a",
 		"editorOverviewRuler.modifiedForeground": "#6994bf99",
 		"editorOverviewRuler.addedForeground": "#91b36299",
@@ -192,7 +192,7 @@
 		"terminal.ansiBrightBlue": "#59c2ff",
 		"terminal.ansiBrightMagenta": "#ff8000",
 		"terminal.ansiBrightCyan": "#a335ee",
-		"terminal.ansiBrightWhite": "#ffffff"
+		"terminal.ansiBrightWhite": "#ffffff",
 	},
 	"tokenColors": [
 		{
